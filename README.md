@@ -19,7 +19,3 @@ My personal developer portfolio. Built with HTML, CSS, JavaScript.
 - Email: aroraarjoon79@gmail.com
 
 Freelance available — starting at $20
-
----
-
-*"Proceed hi nahi kar paya" — But I proceeded.*
